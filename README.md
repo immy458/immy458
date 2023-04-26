@@ -12,6 +12,4 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=immy458&theme=dark" />
 </p>
 
-<p align="center">
-    <img src="https://streak-stats.demolab.com/?user=immy458&theme=dark" />
-</p>
+
