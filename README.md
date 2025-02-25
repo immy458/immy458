@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on MERN, AWS, Firebase, Python
+- 🔭 I’m currently working on MERN, AWS, Python, TypeScript, NextJS, Azure
 - 🌱 I’m currently learning React Native, Docker
 - 📫 How to reach me:[LinkedIn](https://www.linkedin.com/in/imtiyaz-khan-185a98a2/), [HackerRank](https://www.hackerrank.com/imtiyazkhan458)
 
